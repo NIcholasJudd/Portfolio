@@ -8,6 +8,7 @@
   "dependencies": {
     "react": "^0.14.8",
     "react-native": "^0.23.1",
-    "react-native-icons": "^0.7.1"
+    "react-native-icons": "^0.7.1",
+    "react-native-picker": "^2.0.5"
   }
 }
